@@ -16,4 +16,4 @@ The R-squared score for the model is **0.86**, indicating a strong correlation b
 - **Remaining Variability:** The remaining 14% of the variability might be due to factors not captured in the transition matrices, such as injuries, managerial changes, or other unforeseen events.
 
 ### Conclusion
-The Markov Chain model provides a robust framework for predicting league standings, and the high R-squared score demonstrates its effectiveness. However, incorporating additional variables or refining the transition probabilities could potentially enhance the model's predictive power further.
+The Markov Chain model provides a robust framework for predicting league standings, and the high R-squared score demonstrates its effectiveness.
